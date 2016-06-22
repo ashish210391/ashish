@@ -1,0 +1,12 @@
+body{
+  background-color: grey;
+}
+h1{
+  font-size: 300px;
+  font-family: monospace;
+  text-align: center;
+  margin-top: 100px;
+  text-transform: capitalize;
+  text-shadow: 5px 10px 0px white,
+               10px 10px 0px red;
+}

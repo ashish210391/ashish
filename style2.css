@@ -1,0 +1,30 @@
+.wrap{
+width: 600px;
+margin:auto;
+padding-top: 0;
+min-width: 600px;
+background-color: green;
+overflow: hidden;
+text-align: center;
+}
+aside,.content{
+  height: 600px;
+
+}
+.content{
+  background-color:grey;
+  float: left;
+width: 500px;
+}
+aside{
+  background-color:#009999;
+  float:left;
+}
+ul{
+  padding-left: 18px;
+  list-style: none;
+  display: inline;
+
+
+
+}
