@@ -1,0 +1,31 @@
+.wrap{
+background-color: red;
+}
+nav{
+  background: orange;
+
+}
+nav li{
+display: inline;
+margin-left: 0px;
+margin-right: 30px;}
+
+.primary{
+  background: green;
+margin-top: 30px;
+margin-bottom: 30px;
+}
+aside{
+  background: grey;
+  float: right;
+  margin-top: 30px;
+  margin-bottom: 10px;
+
+}
+header{
+overflow: hidden;
+}
+section{
+  box-sizing: border-box;
+  padding: 15px;
+}
